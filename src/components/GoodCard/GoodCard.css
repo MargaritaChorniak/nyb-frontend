@@ -1,0 +1,14 @@
+
+
+.GoodCard {
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 40px;
+  padding: 30px;
+  margin-bottom: 40px;
+}
+
+.GoodCard__img {
+  width: 250px;
+  border-radius: 30px;
+
+}
