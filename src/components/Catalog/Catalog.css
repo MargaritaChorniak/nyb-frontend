@@ -1,9 +1,10 @@
 .catalog {
   display: flex;
+  flex-direction: row;
   justify-content: space-around;
   flex-wrap: wrap;
   align-items: center;
-  margin: 40px;
+  margin: 10px;
 }
 
 .card {

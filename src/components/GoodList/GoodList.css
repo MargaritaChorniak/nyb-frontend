@@ -3,9 +3,11 @@
 .GoodList {
   display: flex;
   justify-content: space-around;
+
 }
 
 .card-container {
   display: flex;
-  flex-direction: row; /* Ensure the cards are displayed horizontally */
+  flex-direction: row;
+
 }
